@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WebCatalog
+GenericName=WebCatalog
+Icon=
+Exec=""
+Terminal=false
+StartupWMClass=webcatalog
+Categories=Office;
